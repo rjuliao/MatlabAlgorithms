@@ -1,2 +1,2 @@
 # MatlabAlgorithms
-Algorithms for the class "Soluciones comunicacionales a problemas en ingeniería"
+Algoritmos hechos en MatLab para la clase Soluciones computacionales a problema en ingeniería.
